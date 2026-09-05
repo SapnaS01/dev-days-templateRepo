@@ -42,6 +42,8 @@ npm run build      # prebuild migrates + seeds, then builds the static site
 npm run preview
 ```
 
+The homepage includes combined category and publisher filters so visitors can narrow the game catalog without leaving the listing page; the controls are keyboard-friendly and keep the page content accessible.
+
 ## Database
 
 The SQLite database is built from `db/games.csv` — there is no live data to migrate.
