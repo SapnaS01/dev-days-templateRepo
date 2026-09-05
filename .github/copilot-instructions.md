@@ -44,6 +44,7 @@ This is a crowdfunding platform for games with a developer theme. The applicatio
 - When updating the database schema, generate and commit the drizzle-kit migration (`npm run db:generate`)
 - When adding new functionality, make sure you update the README
 - Make sure all guidance in the Copilot Instructions file is updated with any relevant changes, including to project structure and scripts, and programming guidance
+- Update the README and any relevant instruction files whenever a change affects repository behavior, structure, scripts, or workflows. Documentation is part of the change, not a follow-up task.
 
 ### Code formatting requirements
 
